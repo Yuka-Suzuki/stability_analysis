@@ -1,5 +1,5 @@
 # stability_analysis
-Codes and data for the manuscript "The number of patches rather than the pattern of connectivity controls stability in metacommunity networks"
+Codes and data for the manuscript "The stability of competitive metacommunities is insensitive to dispersal connectivity in a fluctuating environment"
 
 * finalized_codes/  :codes used for simulations
 * Analysis/         : simulation outputs and codes used for analyses
